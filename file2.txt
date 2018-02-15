@@ -1,7 +1,0 @@
-Line of text
-
-<<<<<<< HEAD
-Creata conflict on the local machine
-=======
-Conflict from online
->>>>>>> 1875c055bad586e5665d8c0eb2ba04e143d2fd5c
